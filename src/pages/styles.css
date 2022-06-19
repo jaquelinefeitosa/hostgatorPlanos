@@ -1,0 +1,57 @@
+/* header */
+.header {
+    position: relative;
+    background: #1d5297;
+    height: 60vh;
+    width: 100%;
+    overflow: hidden;
+} 
+
+.columns {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-left: 60px;
+}
+  
+.column {
+    flex: 31%;
+}
+
+.image {
+    position: absolute;
+    width: 350px;
+    height: 400px;
+}
+
+.text, .textSmall{
+    margin-top: 90px;
+    margin-left: -100px;
+    text-align: center;
+    color: #fff;
+}
+
+.text h2{
+    font-size: 20px;
+    margin-top: -2px;
+}
+.text h3{
+    font-size: 12px;
+}
+
+.textSmall{
+    margin-top: 40px;
+    font-size: 10px;
+    font-weight: 200;
+}
+
+.textSmall img{
+    width: 12px;
+    height: 12px;
+}
+
+/* content */
+
+
+
