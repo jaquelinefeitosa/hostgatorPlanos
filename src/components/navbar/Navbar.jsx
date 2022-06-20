@@ -1,5 +1,5 @@
 //import React from 'react'
-import './styles.css'
+import './navbar.css'
 import Logo from '../../assets/hostgator_logo.svg'
 
 export default function Navbar() {
