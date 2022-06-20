@@ -56,6 +56,12 @@
     height: 12px;
 }
 
+.arrow {
+    position: absolute;
+    left: 49%;
+    top: 65%;
+}
+
 /* content */
 
 .cards{
